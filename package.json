@@ -21,7 +21,7 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-jsonlint": "^1.0.1",
     "grunt-karma": "^2.0.0",
-    "grunt-purifycss": "^0.1.0",
+    "grunt-purifycss": "^0.1.2",
     "grunt-shell": "^2.0.0",
     "grunt-usemin": "^3.0.0",
     "ibrik": "^2.0.0",
