@@ -6,6 +6,7 @@ branches:
   - /^greenkeeper/.*$/
 node_js:
 - '5'
+- '10'
 after_success: npm run-script coveralls
 env:
   global:
